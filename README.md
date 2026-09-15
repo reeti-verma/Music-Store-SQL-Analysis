@@ -4,8 +4,6 @@
 
 This project focuses on analyzing a Music Store database using PostgreSQL and SQL. The analysis answers business questions related to customers, invoices, employees, artists, tracks, and genres.
 
-The project demonstrates how SQL can be used to explore data, perform calculations, and extract useful insights from a relational database.
-
 ## Objectives
 
 * Analyze customer purchasing behavior
@@ -14,9 +12,19 @@ The project demonstrates how SQL can be used to explore data, perform calculatio
 * Find popular genres and artists
 * Practice SQL joins, aggregations, subqueries, CTEs, and window functions
 
-## Business Questions
+## Dataset
 
-The project answers the following questions:
+The project uses a Music Store relational database containing information about employees, customers, invoices, tracks, albums, artists, and genres.
+
+**Dataset:** [music_store_database.sql](./music_store_database.sql)
+
+## SQL Queries
+
+The project contains 10 SQL queries that answer different business questions related to the Music Store database.
+
+**Solved Queries:** [Query_solved.sql](./Query_solved.sql)
+
+## Business Questions
 
 1. Who is the senior-most employee based on job title?
 2. Which countries have the most invoices?
@@ -49,8 +57,6 @@ The project answers the following questions:
 
 ## Database Tables
 
-The project uses the following Music Store tables:
-
 * Employee
 * Customer
 * Invoice
@@ -66,7 +72,7 @@ The project uses the following Music Store tables:
 * SQL
 * pgAdmin
 
-## Project Files
+## Project Structure
 
 ```text
 Music-Store-SQL-Analysis/
@@ -76,21 +82,10 @@ Music-Store-SQL-Analysis/
 └── README.md
 ```
 
-### File Description
-
-**music_store_database.sql**
-Contains the Music Store database and its data.
-
-**Query_solved.sql**
-Contains the SQL queries used to answer the business questions.
-
-**README.md**
-Contains the project description, objectives, questions, SQL concepts, and tools used.
-
 ## Key Learning
 
-Through this project, I practiced writing SQL queries to analyze a relational database and learned how to use joins, aggregate functions, subqueries, CTEs, and window functions to solve real-world business questions.
+Through this project, I practiced writing SQL queries to analyze a relational database and learned how to use joins, aggregate functions, subqueries, CTEs, and window functions to solve business questions.
 
 ## Conclusion
 
-This project helped me strengthen my SQL skills and understand how SQL can be used to analyze business data and generate meaningful insights from a database.
+This project helped me strengthen my SQL skills and understand how SQL can be used to analyze business data and generate meaningful insights from a relational database.
