@@ -22,7 +22,7 @@ The project uses a Music Store relational database containing information about 
 
 The project contains 10 SQL queries that answer different business questions related to the Music Store database.
 
-**Solved Queries:** [Query_solved.sql](./Query_solved.sql)
+**Solved Queries:** <a href="https://github.com/reeti-verma/Music-Store-SQL-Analysis/blob/main/Query_solve.sql">Solved Queries</a>
 
 ## Business Questions
 
