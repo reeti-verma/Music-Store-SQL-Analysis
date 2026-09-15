@@ -16,7 +16,7 @@ This project focuses on analyzing a Music Store database using PostgreSQL and SQ
 
 The project uses a Music Store relational database containing information about employees, customers, invoices, tracks, albums, artists, and genres.
 
-**Dataset:** [music_store_database.sql](./music_store_database.sql)
+**Dataset:** <a href="https://github.com/reeti-verma/Music-Store-SQL-Analysis/blob/main/Music_Store_database.sql">Dataset</a>
 
 ## SQL Queries
 
